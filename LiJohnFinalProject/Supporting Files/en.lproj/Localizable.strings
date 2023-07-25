@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  LiJohnFinalProject
+
+  Created by John Li on 5/1/23.
+  
+*/
+
+"Restaurants" = "Restaurants";
+"Recipes" = "Recipes";
+"isVegetarian" = "Vegetarian ✅";
+"notVegetarian" = "Vegetarian ❌";
+"isGlutenFree" = "Gluten-Free ✅";
+"notGlutenFree" = "Gluten-Free ❌";
+"recipeLinkAvailable" = "See the full reciple at: %@";
+"recipeLinkNotAvailable" = "Recipe link is not available";
+"restaurantRating" = "Rating: %@";

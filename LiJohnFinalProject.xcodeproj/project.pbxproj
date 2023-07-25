@@ -13,6 +13,27 @@
 		F2222CD929F4EA2400D1CBDF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F2222CD729F4EA2400D1CBDF /* Main.storyboard */; };
 		F2222CDB29F4EA2400D1CBDF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F2222CDA29F4EA2400D1CBDF /* Assets.xcassets */; };
 		F2222CDE29F4EA2400D1CBDF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F2222CDC29F4EA2400D1CBDF /* LaunchScreen.storyboard */; };
+		F22B4FDA29F9389B00AC2F52 /* Restaurant.swift in Sources */ = {isa = PBXBuildFile; fileRef = F22B4FD929F9389B00AC2F52 /* Restaurant.swift */; };
+		F22B4FDC29F93F9400AC2F52 /* RestaurantLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = F22B4FDB29F93F9400AC2F52 /* RestaurantLocation.swift */; };
+		F244AFB629FF8EDE0032C4C9 /* RecipeDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F244AFB529FF8EDE0032C4C9 /* RecipeDetailsViewController.swift */; };
+		F29CA35A29FF471F00CE2653 /* RecipeService.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29CA35929FF471F00CE2653 /* RecipeService.swift */; };
+		F29CA35C29FF511600CE2653 /* RecipeRoot.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29CA35B29FF511600CE2653 /* RecipeRoot.swift */; };
+		F29CA35E29FF517300CE2653 /* Recipe.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29CA35D29FF517300CE2653 /* Recipe.swift */; };
+		F29CA36029FF803F00CE2653 /* RecipeID.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29CA35F29FF803F00CE2653 /* RecipeID.swift */; };
+		F29CA36229FF895600CE2653 /* RecipeSearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29CA36129FF895600CE2653 /* RecipeSearchViewController.swift */; };
+		F29CA36429FF8AD000CE2653 /* RecipeResultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29CA36329FF8AD000CE2653 /* RecipeResultsViewController.swift */; };
+		F2A3C54829FC94F800633EA3 /* Root.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2A3C54729FC94F800633EA3 /* Root.swift */; };
+		F2A3C54A29FCF48C00633EA3 /* RestaurantService.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2A3C54929FCF48C00633EA3 /* RestaurantService.swift */; };
+		F2A3C54C29FD2C2F00633EA3 /* RestaurantResultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2A3C54B29FD2C2F00633EA3 /* RestaurantResultsViewController.swift */; };
+		F2A9C4E129F6651B00FD785A /* LocationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2A9C4E029F6651B00FD785A /* LocationService.swift */; };
+		F2B2CB502A00C2800093EC91 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = F2B2CB522A00C2800093EC91 /* Localizable.strings */; };
+		F2B2CB552A00CA010093EC91 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = F2B2CB572A00CA010093EC91 /* Localizable.strings */; };
+		F2B2CB5A2A00FD580093EC91 /* Kingfisher in Frameworks */ = {isa = PBXBuildFile; productRef = F2B2CB592A00FD580093EC91 /* Kingfisher */; };
+		F2D794EF2A02713E009024AB /* RestaurantTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2D794EE2A02713E009024AB /* RestaurantTableViewCell.swift */; };
+		F2D7AA7829FE04B6001191F0 /* RestaurantDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2D7AA7729FE04B6001191F0 /* RestaurantDetailViewController.swift */; };
+		F2D82B702A01DD290039D2EE /* SwiftSoup in Frameworks */ = {isa = PBXBuildFile; productRef = F2D82B6F2A01DD290039D2EE /* SwiftSoup */; };
+		F2F84CC929FFB38400525442 /* FavoritesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2F84CC829FFB38400525442 /* FavoritesViewController.swift */; };
+		F2FBE6302A024E0F00D89DBC /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2FBE62F2A024E0F00D89DBC /* WebViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +45,27 @@
 		F2222CDA29F4EA2400D1CBDF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F2222CDD29F4EA2400D1CBDF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F2222CDF29F4EA2400D1CBDF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F22B4FD929F9389B00AC2F52 /* Restaurant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restaurant.swift; sourceTree = "<group>"; };
+		F22B4FDB29F93F9400AC2F52 /* RestaurantLocation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantLocation.swift; sourceTree = "<group>"; };
+		F244AFB529FF8EDE0032C4C9 /* RecipeDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeDetailsViewController.swift; sourceTree = "<group>"; };
+		F29CA35929FF471F00CE2653 /* RecipeService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeService.swift; sourceTree = "<group>"; };
+		F29CA35B29FF511600CE2653 /* RecipeRoot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeRoot.swift; sourceTree = "<group>"; };
+		F29CA35D29FF517300CE2653 /* Recipe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Recipe.swift; sourceTree = "<group>"; };
+		F29CA35F29FF803F00CE2653 /* RecipeID.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeID.swift; sourceTree = "<group>"; };
+		F29CA36129FF895600CE2653 /* RecipeSearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeSearchViewController.swift; sourceTree = "<group>"; };
+		F29CA36329FF8AD000CE2653 /* RecipeResultsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeResultsViewController.swift; sourceTree = "<group>"; };
+		F2A3C54729FC94F800633EA3 /* Root.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Root.swift; sourceTree = "<group>"; };
+		F2A3C54929FCF48C00633EA3 /* RestaurantService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = RestaurantService.swift; path = LiJohnFinalProject/Controller/RestaurantService.swift; sourceTree = SOURCE_ROOT; };
+		F2A3C54B29FD2C2F00633EA3 /* RestaurantResultsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantResultsViewController.swift; sourceTree = "<group>"; };
+		F2A9C4E029F6651B00FD785A /* LocationService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationService.swift; sourceTree = "<group>"; };
+		F2B2CB4C2A00BCC90093EC91 /* es-419 */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "es-419"; path = "es-419.lproj/Main.strings"; sourceTree = "<group>"; };
+		F2B2CB4D2A00BCC90093EC91 /* es-419 */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "es-419"; path = "es-419.lproj/LaunchScreen.strings"; sourceTree = "<group>"; };
+		F2B2CB512A00C2800093EC91 /* es-419 */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "es-419"; path = "es-419.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		F2B2CB562A00CA010093EC91 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		F2D794EE2A02713E009024AB /* RestaurantTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantTableViewCell.swift; sourceTree = "<group>"; };
+		F2D7AA7729FE04B6001191F0 /* RestaurantDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantDetailViewController.swift; sourceTree = "<group>"; };
+		F2F84CC829FFB38400525442 /* FavoritesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesViewController.swift; sourceTree = "<group>"; };
+		F2FBE62F2A024E0F00D89DBC /* WebViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,6 +73,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F2B2CB5A2A00FD580093EC91 /* Kingfisher in Frameworks */,
+				F2D82B702A01DD290039D2EE /* SwiftSoup in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -56,15 +100,66 @@
 		F2222CD029F4EA2400D1CBDF /* LiJohnFinalProject */ = {
 			isa = PBXGroup;
 			children = (
-				F2222CD129F4EA2400D1CBDF /* AppDelegate.swift */,
-				F2222CD329F4EA2400D1CBDF /* SceneDelegate.swift */,
-				F2222CD529F4EA2400D1CBDF /* ViewController.swift */,
-				F2222CD729F4EA2400D1CBDF /* Main.storyboard */,
-				F2222CDA29F4EA2400D1CBDF /* Assets.xcassets */,
-				F2222CDC29F4EA2400D1CBDF /* LaunchScreen.storyboard */,
+				F2222CE529F4EA7F00D1CBDF /* Model */,
+				F2222CE729F4EA8F00D1CBDF /* Controller */,
+				F2222CE629F4EA8400D1CBDF /* View */,
+				F2222CE829F4EAA500D1CBDF /* Supporting Files */,
 				F2222CDF29F4EA2400D1CBDF /* Info.plist */,
 			);
 			path = LiJohnFinalProject;
+			sourceTree = "<group>";
+		};
+		F2222CE529F4EA7F00D1CBDF /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				F2A3C54929FCF48C00633EA3 /* RestaurantService.swift */,
+				F22B4FD929F9389B00AC2F52 /* Restaurant.swift */,
+				F22B4FDB29F93F9400AC2F52 /* RestaurantLocation.swift */,
+				F2A9C4E029F6651B00FD785A /* LocationService.swift */,
+				F2A3C54729FC94F800633EA3 /* Root.swift */,
+				F29CA35929FF471F00CE2653 /* RecipeService.swift */,
+				F29CA35B29FF511600CE2653 /* RecipeRoot.swift */,
+				F29CA35D29FF517300CE2653 /* Recipe.swift */,
+				F29CA35F29FF803F00CE2653 /* RecipeID.swift */,
+				F2D794EE2A02713E009024AB /* RestaurantTableViewCell.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		F2222CE629F4EA8400D1CBDF /* View */ = {
+			isa = PBXGroup;
+			children = (
+				F2222CD729F4EA2400D1CBDF /* Main.storyboard */,
+				F2222CDC29F4EA2400D1CBDF /* LaunchScreen.storyboard */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		F2222CE729F4EA8F00D1CBDF /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				F2222CD529F4EA2400D1CBDF /* ViewController.swift */,
+				F2D7AA7729FE04B6001191F0 /* RestaurantDetailViewController.swift */,
+				F2A3C54B29FD2C2F00633EA3 /* RestaurantResultsViewController.swift */,
+				F29CA36129FF895600CE2653 /* RecipeSearchViewController.swift */,
+				F29CA36329FF8AD000CE2653 /* RecipeResultsViewController.swift */,
+				F244AFB529FF8EDE0032C4C9 /* RecipeDetailsViewController.swift */,
+				F2F84CC829FFB38400525442 /* FavoritesViewController.swift */,
+				F2FBE62F2A024E0F00D89DBC /* WebViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		F2222CE829F4EAA500D1CBDF /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				F2222CDA29F4EA2400D1CBDF /* Assets.xcassets */,
+				F2222CD129F4EA2400D1CBDF /* AppDelegate.swift */,
+				F2222CD329F4EA2400D1CBDF /* SceneDelegate.swift */,
+				F2B2CB522A00C2800093EC91 /* Localizable.strings */,
+				F2B2CB572A00CA010093EC91 /* Localizable.strings */,
+			);
+			path = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -83,6 +178,10 @@
 			dependencies = (
 			);
 			name = LiJohnFinalProject;
+			packageProductDependencies = (
+				F2B2CB592A00FD580093EC91 /* Kingfisher */,
+				F2D82B6F2A01DD290039D2EE /* SwiftSoup */,
+			);
 			productName = LiJohnFinalProject;
 			productReference = F2222CCE29F4EA2400D1CBDF /* LiJohnFinalProject.app */;
 			productType = "com.apple.product-type.application";
@@ -109,8 +208,13 @@
 			knownRegions = (
 				en,
 				Base,
+				"es-419",
 			);
 			mainGroup = F2222CC529F4EA2300D1CBDF;
+			packageReferences = (
+				F2B2CB582A00FD580093EC91 /* XCRemoteSwiftPackageReference "Kingfisher" */,
+				F2D82B6E2A01DD290039D2EE /* XCRemoteSwiftPackageReference "SwiftSoup" */,
+			);
 			productRefGroup = F2222CCF29F4EA2400D1CBDF /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -125,7 +229,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F2B2CB552A00CA010093EC91 /* Localizable.strings in Resources */,
 				F2222CDE29F4EA2400D1CBDF /* LaunchScreen.storyboard in Resources */,
+				F2B2CB502A00C2800093EC91 /* Localizable.strings in Resources */,
 				F2222CDB29F4EA2400D1CBDF /* Assets.xcassets in Resources */,
 				F2222CD929F4EA2400D1CBDF /* Main.storyboard in Resources */,
 			);
@@ -138,9 +244,26 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F2D794EF2A02713E009024AB /* RestaurantTableViewCell.swift in Sources */,
+				F2FBE6302A024E0F00D89DBC /* WebViewController.swift in Sources */,
+				F22B4FDA29F9389B00AC2F52 /* Restaurant.swift in Sources */,
+				F2A3C54829FC94F800633EA3 /* Root.swift in Sources */,
+				F2D7AA7829FE04B6001191F0 /* RestaurantDetailViewController.swift in Sources */,
+				F2A3C54C29FD2C2F00633EA3 /* RestaurantResultsViewController.swift in Sources */,
+				F29CA36029FF803F00CE2653 /* RecipeID.swift in Sources */,
 				F2222CD629F4EA2400D1CBDF /* ViewController.swift in Sources */,
+				F29CA36229FF895600CE2653 /* RecipeSearchViewController.swift in Sources */,
 				F2222CD229F4EA2400D1CBDF /* AppDelegate.swift in Sources */,
+				F2A3C54A29FCF48C00633EA3 /* RestaurantService.swift in Sources */,
+				F29CA35C29FF511600CE2653 /* RecipeRoot.swift in Sources */,
+				F2F84CC929FFB38400525442 /* FavoritesViewController.swift in Sources */,
+				F29CA35A29FF471F00CE2653 /* RecipeService.swift in Sources */,
+				F2A9C4E129F6651B00FD785A /* LocationService.swift in Sources */,
+				F29CA35E29FF517300CE2653 /* Recipe.swift in Sources */,
 				F2222CD429F4EA2400D1CBDF /* SceneDelegate.swift in Sources */,
+				F244AFB629FF8EDE0032C4C9 /* RecipeDetailsViewController.swift in Sources */,
+				F22B4FDC29F93F9400AC2F52 /* RestaurantLocation.swift in Sources */,
+				F29CA36429FF8AD000CE2653 /* RecipeResultsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -151,6 +274,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				F2222CD829F4EA2400D1CBDF /* Base */,
+				F2B2CB4C2A00BCC90093EC91 /* es-419 */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -159,8 +283,25 @@
 			isa = PBXVariantGroup;
 			children = (
 				F2222CDD29F4EA2400D1CBDF /* Base */,
+				F2B2CB4D2A00BCC90093EC91 /* es-419 */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		F2B2CB522A00C2800093EC91 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F2B2CB512A00C2800093EC91 /* es-419 */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+		F2B2CB572A00CA010093EC91 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F2B2CB562A00CA010093EC91 /* en */,
+			);
+			name = Localizable.strings;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -170,6 +311,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
@@ -230,6 +372,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
@@ -289,11 +432,13 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = LiJohnFinalProject/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = NearBite;
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "So that we can find nearby restaurants.";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "So that we can find nearby restaurants.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -316,11 +461,13 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = LiJohnFinalProject/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = NearBite;
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "So that we can find nearby restaurants.";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "So that we can find nearby restaurants.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -356,6 +503,38 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		F2B2CB582A00FD580093EC91 /* XCRemoteSwiftPackageReference "Kingfisher" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/onevcat/Kingfisher.git";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+		F2D82B6E2A01DD290039D2EE /* XCRemoteSwiftPackageReference "SwiftSoup" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/scinfu/SwiftSoup";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		F2B2CB592A00FD580093EC91 /* Kingfisher */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = F2B2CB582A00FD580093EC91 /* XCRemoteSwiftPackageReference "Kingfisher" */;
+			productName = Kingfisher;
+		};
+		F2D82B6F2A01DD290039D2EE /* SwiftSoup */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = F2D82B6E2A01DD290039D2EE /* XCRemoteSwiftPackageReference "SwiftSoup" */;
+			productName = SwiftSoup;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = F2222CC629F4EA2300D1CBDF /* Project object */;
 }

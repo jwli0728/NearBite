@@ -1,0 +1,102 @@
+
+/* Class = "UIButton"; configuration.title = "Search"; ObjectID = "0cb-aj-Y8y"; */
+"0cb-aj-Y8y.configuration.title" = "Buscar";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "0cb-aj-Y8y"; */
+"0cb-aj-Y8y.normalTitle" = "Button";
+
+/* Class = "UISegmentedControl"; 2MM-5q-69R.segmentTitles[0] = "$"; ObjectID = "2MM-5q-69R"; */
+"2MM-5q-69R.segmentTitles[0]" = "$";
+
+/* Class = "UISegmentedControl"; 2MM-5q-69R.segmentTitles[1] = "$$"; ObjectID = "2MM-5q-69R"; */
+"2MM-5q-69R.segmentTitles[1]" = "$$";
+
+/* Class = "UISegmentedControl"; 2MM-5q-69R.segmentTitles[2] = "$$$"; ObjectID = "2MM-5q-69R"; */
+"2MM-5q-69R.segmentTitles[2]" = "$$$";
+
+/* Class = "UISegmentedControl"; 2MM-5q-69R.segmentTitles[3] = "$$$$"; ObjectID = "2MM-5q-69R"; */
+"2MM-5q-69R.segmentTitles[3]" = "$$$$";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "3MK-6N-eiv"; */
+"3MK-6N-eiv.text" = "Título";
+
+/* Class = "UINavigationItem"; title = "Restaurant Results"; ObjectID = "5jj-Cy-rsH"; */
+"5jj-Cy-rsH.title" = "Resultados del restaurante";
+
+/* Class = "UITabBarItem"; title = "Favorites"; ObjectID = "928-LS-GBr"; */
+"928-LS-GBr.title" = "Favoritas";
+
+/* Class = "UILabel"; text = "Search:"; ObjectID = "AsT-Rf-jms"; */
+"AsT-Rf-jms.text" = "Buscar:";
+
+/* Class = "UILabel"; text = "Rating: "; ObjectID = "GeO-7n-NnJ"; */
+"GeO-7n-NnJ.text" = "Valuación: ";
+
+/* Class = "UILabel"; text = "Distance (m)"; ObjectID = "IBT-oh-yNP"; */
+"IBT-oh-yNP.text" = "Distancia (m)";
+
+/* Class = "UILabel"; text = "Summary: "; ObjectID = "Iy0-oV-8fX"; */
+"Iy0-oV-8fX.text" = "Resumen: ";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Kt8-cX-lcw"; */
+"Kt8-cX-lcw.text" = "Título";
+
+/* Class = "UILabel"; text = "Vegetarian: "; ObjectID = "MBi-Tj-sP4"; */
+"MBi-Tj-sP4.text" = "Vegetariana: ";
+
+/* Class = "UINavigationItem"; title = "Recipe Results"; ObjectID = "O2E-8U-oBj"; */
+"O2E-8U-oBj.title" = "Resultados de recetas";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "QWC-ti-beP"; */
+"QWC-ti-beP.text" = "Precio";
+
+/* Class = "UILabel"; text = "Gluten-Free"; ObjectID = "TxV-Ih-tF7"; */
+"TxV-Ih-tF7.text" = "Sin Gluten";
+
+/* Class = "UITabBarItem"; title = "Restaurants"; ObjectID = "V8u-ue-pQ8"; */
+"V8u-ue-pQ8.title" = "Restaurantes";
+
+/* Class = "UITabBarItem"; title = "Recipes"; ObjectID = "Vh5-j6-KyO"; */
+"Vh5-j6-KyO.title" = "Recetas";
+
+/* Class = "UILabel"; text = "Search"; ObjectID = "ZEl-0c-a5V"; */
+"ZEl-0c-a5V.text" = "Buscar";
+
+/* Class = "UINavigationItem"; title = "Recipe Details"; ObjectID = "Zwy-Jr-PEi"; */
+"Zwy-Jr-PEi.title" = "Detalles de la receta";
+
+/* Class = "UILabel"; text = "Currently Open"; ObjectID = "ddo-53-5ny"; */
+"ddo-53-5ny.text" = "Actualmente abierta";
+
+/* Class = "UILabel"; text = "Gluten-Free"; ObjectID = "fct-tC-1ly"; */
+"fct-tC-1ly.text" = "Sin Gluten";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "hK8-K4-u7r"; */
+"hK8-K4-u7r.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "See the full recipe at: "; ObjectID = "hWs-dK-JaW"; */
+"hWs-dK-JaW.text" = "Mira la receta completa en: ";
+
+/* Class = "UINavigationItem"; title = "Restaurant Details"; ObjectID = "ivR-1W-qiI"; */
+"ivR-1W-qiI.title" = "Detalles del restaurante";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "txF-IS-BeQ"; */
+"txF-IS-BeQ.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Restaurant Name"; ObjectID = "uv0-Io-7LA"; */
+"uv0-Io-7LA.text" = "Nombre del restaurante";
+
+/* Class = "UIButton"; configuration.title = "Search"; ObjectID = "w75-71-mXI"; */
+"w75-71-mXI.configuration.title" = "Buscar";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "w75-71-mXI"; */
+"w75-71-mXI.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "wPI-yB-Im9"; */
+"wPI-yB-Im9.text" = "Ubicación";
+
+/* Class = "UILabel"; text = "Vegetarian"; ObjectID = "wf6-jd-5GE"; */
+"wf6-jd-5GE.text" = "Vegetariana";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xfo-sG-A2I"; */
+"xfo-sG-A2I.text" = "Label";
